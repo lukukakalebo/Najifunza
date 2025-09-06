@@ -1,2 +1,2 @@
-console.log ('habari version 3');
-console.log ('nzuri version 3');
+console.log ('habari version 1');
+HTMLFormControlsCollection.log ('nzuri version 1');
