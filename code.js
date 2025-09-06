@@ -1,2 +1,2 @@
-console.log ('habari version 2');
-console.log ('nzuri version 2');
+console.log ('habari version 3');
+console.log ('nzuri version 3');
