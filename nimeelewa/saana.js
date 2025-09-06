@@ -1,2 +1,2 @@
-console.log('mwenyewe version 1');
-console.log('kabisa version 1');
+console.log('mwenyewe version 2');
+console.log('kabisa version 2');
